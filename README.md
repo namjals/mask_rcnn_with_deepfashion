@@ -170,7 +170,16 @@ python deepfashion.py splash --weights=mask_rcnn_balloon_0012.h5 --image=test/6.
   - 12번째 epoch
   - 기존 balloon.py를 그대로 사용
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025814.png)
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T030018.png) | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025814.png) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
+
 
 ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T030018.png)
 
