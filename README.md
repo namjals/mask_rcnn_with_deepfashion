@@ -184,3 +184,4 @@ python deepfashion.py splash --weights=mask_rcnn_balloon_0012.h5 --image=test/6.
 
 
 
+![image](https://github.com/switchablenorms/DeepFashion2/blob/master/images/deepfashion2_bigbang.png)
