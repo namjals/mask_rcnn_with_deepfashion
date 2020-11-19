@@ -164,7 +164,11 @@ python deepfashion.py splash --weights=mask_rcnn_balloon_0012.h5 --image=test/6.
 
 ## 9. 결과
 
-- 베이지색만 그나마 마스킹하고 있음
+- 베이지색만 어느정도 마스킹하고 있음
+  - 필터된 소스 사진을 따로 선별하지 않음
+  - 좌표타입 landmarks 사용
+  - 12번째 epoch
+  - 기존 balloon.py를 그대로 사용
 
 ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025814.png)
 
@@ -177,11 +181,3 @@ python deepfashion.py splash --weights=mask_rcnn_balloon_0012.h5 --image=test/6.
 ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025851.png)
 
 ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025941.png)
-
-
-
-
-
-
-
-![image](https://github.com/switchablenorms/DeepFashion2/blob/master/images/deepfashion2_bigbang.png)
