@@ -166,17 +166,17 @@ python deepfashion.py splash --weights=mask_rcnn_balloon_0012.h5 --image=test/6.
 
 - 베이지색만 그나마 마스킹하고 있음
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/tree/main/image/splash_20201119T025814.png)
+![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025814.png)
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/tree/main/image/splash_20201119T030018.png)
+![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T030018.png)
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/tree/main/image/splash_20201119T025708.png)
+![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025708.png)
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/tree/main/image/splash_20201119T025743.png)
+![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025743.png)
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/tree/main/image/splash_20201119T025851.png)
+![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025851.png)
 
-![image](https://github.com/namjals/mask_rcnn_with_deepfashion/tree/main/image/splash_20201119T025941.png)
+![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025941.png)
 
 
 
