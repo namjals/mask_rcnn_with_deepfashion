@@ -178,3 +178,9 @@ python deepfashion.py splash --weights=mask_rcnn_balloon_0012.h5 --image=test/6.
 | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/2.jpg) | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025743.png) |
 | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/4.jpg) | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025851.png) |
 | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/5.jpg) | ![image](https://github.com/namjals/mask_rcnn_with_deepfashion/blob/main/image/splash_20201119T025941.png) |
+
+
+
+## 10. 참조
+
+https://mylifemystudy.tistory.com/81?category=797525
