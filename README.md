@@ -26,7 +26,7 @@ source env.sh
 
 ## 2. 데이터셋 이미지 다운로드
 
-- [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)라는 13가지 카테고리를 갖고 있는 데이터셋을 학습을 위해 다운로드합니다.
+- [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)라는 13가지 카테고리를 갖고 있는 데이터셋을 학습의 input에 넣기 위해 다운로드합니다.
 
 - [여기](https://drive.google.com/drive/folders/125F48fsMBz2EF0Cpqk6aaHet5VH399Ok?usp=sharing)에서 validation.zip 다운로드
 - [여기](https://docs.google.com/forms/d/e/1FAIpQLSeIoGaFfCQILrtIZPykkr8q_h9qQ5BoTYbjvf95aXbid0v2Bw/viewform?usp=sf_link)에서 서약서 작성 후, 압축 해제 비밀번호 획득
