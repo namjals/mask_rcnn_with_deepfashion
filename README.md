@@ -1,8 +1,9 @@
 # mask_rcnn_with_deepfashion
 
-SageMaker나 Colab에서 해당 이 repo를 다운받아 실행하면 원활하게 수행할 수 있습니다. 로컬(Mac)으로 하면 학습시간이 상당합니다.
+- deepfashion2 이미지의 13개 카테고리, 좌표 타입(landmarks or segmentation)을  선택하여 학습할 수 있습니다.
+- SageMaker나 Colab에서 해당 이 repo를 다운받아 실행하면 원활하게 수행할 수 있습니다. 로컬(Mac)으로 하면 학습시간이 상당합니다.
 
-1~6까지는 로컬에서 하시고, 7번 8번만, SageMaker나 Colab에서 수행하길 추천합니다.
+- 1~6까지는 로컬에서 하시고, 7번 8번만, SageMaker나 Colab에서 수행하길 추천합니다.
 
 ## 1. 개발 환경 셋업
 
@@ -136,7 +137,7 @@ optional arguments:
 
 ## 7. 학습
 
-- SageMaker에서 하는 경우, "1. 개발환경 셋업"을 submodule까지만 진행하고, `source activate tensorflow_p36` , `cd mask_rcnn_with_deepfashion`후 아래 내용을 진행해주세요.
+- SageMaker에서 하는 경우, "1. 개발환경 셋업"을 submodule까지만 진행하고, `source activate tensorflow_p36` , `cd mask_rcnn_with_deepfashion`, "6. 어노테이션 포맷 변환" 결과 train, val 폴더를 노트북에 업로드 후, 아래 내용을 진행해주세요.
 
 ```bash
 cd bin
