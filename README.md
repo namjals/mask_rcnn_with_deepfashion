@@ -1,6 +1,7 @@
 # mask_rcnn_with_deepfashion
 
 - deepfashion2 이미지의 13개 카테고리, 좌표 타입(landmarks or segmentation)을  선택하여 학습할 수 있습니다.
+  - "9. 결과"를 보시면 아직 결과가 좋지 않습니다.
 - SageMaker나 Colab에서 해당 이 repo를 다운받아 실행하면 원활하게 수행할 수 있습니다. 로컬(Mac)으로 하면 학습시간이 상당합니다.
 
 - 1~6까지는 로컬에서 하시고, 7번 8번만, SageMaker나 Colab에서 수행하길 추천합니다.
